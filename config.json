@@ -1,0 +1,6 @@
+{
+  "Port": ":8000",
+  "Path": "/deleteHook",
+  "GithubSecret": "GithubSecretKey",
+  "ExecCommand" : "./remove.sh"
+}
